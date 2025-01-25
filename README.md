@@ -16,6 +16,9 @@ This project demonstrates how to:
 # Dataset
 The dataset used in this project contains 700 rows and 10 columns, including 9 features and 1 target class.
 
+![download (1)](https://github.com/user-attachments/assets/5e5178ac-7873-4778-bfd1-9e031b3d8935)
+
+
 # Features
 
 1. **Data Exploration and Visualisation**:
@@ -37,6 +40,10 @@ The dataset used in this project contains 700 rows and 10 columns, including 9 f
 - Confusion Matrix
 
 # Results
+
+![download (2)](https://github.com/user-attachments/assets/851c44ed-8e46-4a91-b560-d6b7d05aafc0)
+<img width="432" alt="Screenshot 2025-01-25 at 12 58 05 PM" src="https://github.com/user-attachments/assets/93935cdc-9722-4487-82ff-a12157209818" />
+
 
 # Visualisations
 Visualisations
